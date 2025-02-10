@@ -40,5 +40,6 @@ int main() {
         cout << products[i][0] << "\t" << products[i][1] << "\t\t" << products[i][2] << "\t" << products[i][3] << endl;
     }
 
+    cout <<"Thank you!!!";
     return 0;
 }
