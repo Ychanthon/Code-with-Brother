@@ -41,5 +41,6 @@ int main() {
     }
 
     cout <<"Thank you!!!";
+    cout <<"Good Bay";
     return 0;
 }
