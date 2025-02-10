@@ -30,7 +30,7 @@ int main() {
         cin >> products[i][3];
     }
 
-    // Display product details
+
     cout << "\nProduct Information:" << endl;
     cout << "---------------------------------------------" << endl;
     cout << "ID\tName\t\tImport Date\tExpiry Date" << endl;
